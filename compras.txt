@@ -1,0 +1,17 @@
+2023-04-01 13:59:50.000179 - Compra realizada
+2023-04-01 16:59:46.000404 - Compra realizada
+2023-04-01 17:59:46.000085 - Valor Superior a 50.000
+2023-04-01 20:59:46.003058 - Compra realizada
+2023-04-01 21:59:55.000724 - Compra realizada
+2023-04-02 08:59:58.000135 - Compra realizada
+2023-04-02 10:59:58.000763 - Compra realizada
+2023-04-02 17:59:58.002726 - Compra realizada
+2023-04-02 18:59:58.012174 - Compra realizada
+2023-04-02 21:59:58.010283 - Compra realizada
+2023-04-02 22:59:58.002335 - Compra realizada
+2023-04-02 23:59:58.001425 - Compra realizada
+2023-04-03 09:59:58.002526 - Compra realizada
+2023-04-03 10:59:58.011265 - Compra realizada
+2023-04-04 07:59:58.014927 - Compra realizada
+2023-04-04 08:59:58.013591 - Compra realizada
+2023-04-04 09:59:58.011394 - Compra realizada
